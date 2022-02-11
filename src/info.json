@@ -1,0 +1,13 @@
+{
+    "identifier": "com.augusl.bobplugin.ipinfo",
+    "version": "0.1.1",
+    "category": "translate",
+    "name": "IP Info",
+    "summary": "IP Info",
+    "icon": "",
+    "author": "augusl",
+    "homepage": "https://github.com/augusl",
+    "appcast": "",
+    "minBobVersion": "0.5.0",
+    "options": []
+}
