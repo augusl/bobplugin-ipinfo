@@ -3,7 +3,7 @@
 
 ## 获取自己的IP信息
 关键词：ip 或者 local
-![](https://cdn.jsdelivr.net/gh/augusl/oss@main/uPic/05q70k.png)
+![](https://cdn.jsdelivr.net/gh/augusl/oss@main/uPic/CleanShot20220211at12.49.22@2x.png)
 
 ## 查询IPV4,IPV6信息
 ![](https://cdn.jsdelivr.net/gh/augusl/oss@main/uPic/WQ39Ik.png)
