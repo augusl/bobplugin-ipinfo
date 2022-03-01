@@ -36,7 +36,7 @@ function translate(query, completion) {
         url: "https://api.ip.sb/geoip/" + encodeURIComponent(ip),
         handler: function (resp) {
             if (resp.data.code !== undefined) {
-                completion({ 'error': { 'type': 'param', 'message': resp.data.message, 'addtion': JSON.stringify(resp.data) } });
+                completion({ 'error': { 'type': 'unsupportLanguage', 'message': resp.data.message, 'addtion': JSON.stringify(resp.data) } });
             } else {
                 completion({ 'result': buildResult(resp.data) });
             }
