@@ -10,7 +10,7 @@ function nameUpper(str) {
 }
 
 function nameTranslate(str) {
-    var name = { organization: "组织", ip: "IP", country_code: "国家代码", country: "国家", region_code: "地区代码", region: "地区", city: "城市", postal_code: "邮政编码", continent_code: "洲代码", latitude: "纬度", longitude: "经度", timezone: "时区", asn: "自治系统号", isp: "网络提供商", asn_organization: "自治系统号组织", offset: "偏移量" };
+    var name = { organization: "组织", ip: "IP", country_code: "国家代码", country: "国家", region_code: "地区代码", region: "地区", city: "城市", postal_code: "邮政编码", continent_code: "洲代码", latitude: "纬度", longitude: "经度", timezone: "时区", asn: "自治系统号", isp: "网络提供商", asn_organization: "自治系统组织", offset: "偏移量" };
     return name[str];
 }
 
