@@ -14,6 +14,13 @@
             "sha256": "751104b0d0084a61d9d3146eb993c4be675197e70a83e9d6d9470b057a797b11",
             "url": "https://github.com/augusl/bobplugin-ipinfo/releases/download/v0.1.2/bobplugin-ipinfo.bobplugin",
             "minBobVersion": "0.5.0"
+        },
+        {
+            "version": "0.1.3",
+            "desc": "名称翻译",
+            "sha256": "8fff6039ca0b808fa6c4e439c96683dee4a4ca4ffdf4e7f64ecd57a2bfba5964",
+            "url": "https://github.com/augusl/bobplugin-ipinfo/releases/download/v0.1.3/bobplugin-ipinfo.bobplugin",
+            "minBobVersion": "0.5.0"
         }
     ]
 }
