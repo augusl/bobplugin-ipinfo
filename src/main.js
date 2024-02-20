@@ -28,7 +28,7 @@ function nameTranslate(str) {
 
 // Build the result object
 function buildResult(data) {
-    const additions = Object.keys(data).map(item => ({ name: nameTranslate(item), value: `${data[item]}` }));
+    const additions = Object.keys(data).sort().map(item => ({ name: nameTranslate(item), value: `${data[item]}` }));
     return {
         from: "en",
         to: "en",
