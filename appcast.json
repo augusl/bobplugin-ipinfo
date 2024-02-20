@@ -28,6 +28,13 @@
             "sha256": "42c99799fa626d5a6b5132dc9c645724cd9eb46b7a853fdcc0337df0e4c54e3d",
             "url": "https://github.com/augusl/bobplugin-ipinfo/releases/download/v0.1.5/bobplugin-ipinfo.bobplugin",
             "minBobVersion": "0.5.0"
+        },
+        {
+            "version": "0.1.6",
+            "desc": "sort",
+            "sha256": "6995c99aad0ac46fd60914f6075f4af8cad2d970dde875da2c804d502d931b7a",
+            "url": "https://github.com/augusl/bobplugin-ipinfo/releases/download/v0.1.6/bobplugin-ipinfo.bobplugin",
+            "minBobVersion": "0.5.0"
         }
     ]
 }
